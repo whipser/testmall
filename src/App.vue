@@ -17,5 +17,5 @@ import MainTabBar from 'components/content/mainTabBar/MainTabBar'
 </script>
 
 <style>
-  /* @import "assets/css/base.css"; */
+  @import "assets/css/base.css";
 </style>
